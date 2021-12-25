@@ -1,0 +1,7 @@
+Hello There 👋...
+
+To run this todo cli first you must need to run below command
+
+npm install
+
+after you done it you are able to run cli function which is provided in README.md file
